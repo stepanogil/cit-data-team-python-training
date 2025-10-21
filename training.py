@@ -1,11 +1,26 @@
-# strings
-string = "1"
-print(type(string))
+a = 2
+b = 5.0
 
-# integers
-integer = 1
-print(type(integer))
+# basic operations
+result_add = a + b
+print(result_add)
 
-# floats
-float_number = 1.0
-print(type(float_number))
+result_sub = a - b
+print(result_sub)
+
+result_mul = a * b
+print(result_mul)
+
+result_div = a / b
+print(result_div)
+
+# exponentiation
+result_exp = a ** b
+print(result_exp)
+
+# comparisons
+result_eq = a == b
+print(result_eq)
+
+result_neq = a != b
+print(result_neq)
