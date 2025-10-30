@@ -1,4 +1,5 @@
 .venv_python_training/
+.venv_python_training_v3/
 __pycache__/
 *.pyc
 .env

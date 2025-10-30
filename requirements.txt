@@ -1,3 +1,5 @@
+ipykernel
 pandas
 requests
 python-dotenv
+matplotlib
