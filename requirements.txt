@@ -7,3 +7,5 @@ azure-cosmos
 azure-storage-blob
 pyodbc
 azure-identity
+plotly
+nbformat
